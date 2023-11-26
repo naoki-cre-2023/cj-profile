@@ -19,13 +19,13 @@ img {
  ----------------------------------------*/
 header {
     max-width: 100%;
-    height: 60px;
+    height: auto;
 
 }
 
 header img {
     width: 120px;
-    height: 40px;
+    height: auto;
 
 }
 
@@ -42,14 +42,17 @@ main {
 
 .mainvisual img {
     width: 100%;
-    height: 600px;
+    height: auto;
 }
 
 .about-container {
 
 }
 
-
+.about-container img {
+    width: 100px;
+    height: auto;
+}
 
 .bicycle-container {
 
