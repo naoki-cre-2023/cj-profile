@@ -26,9 +26,7 @@ header {
 header img {
     width: 120px;
     height: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    float: left;
+    margin: 10px 930px 10px 230px;
 
 }
 
@@ -48,7 +46,8 @@ main {
 
 .mainvisual img {
     width: 1280px;
-    height: auto;
+    height: 600px;
+    text-align: center;
 }
 
 .about-container {
