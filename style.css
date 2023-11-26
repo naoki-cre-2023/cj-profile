@@ -6,6 +6,7 @@ html {
 }
 
 body {
+    max-height: 1280px;
   
 }
 
@@ -63,6 +64,20 @@ main {
 
 }
 
+.bicycle-1 img {
+    width: 262.8px;
+    height: auto;
+}
+
+.bicycle-2 img {
+    width: 262.8px;
+    height: auto;
+}
+
+.bicycle-3 img {
+    width: 262.8px;
+    height: auto;
+}
 
 
 
