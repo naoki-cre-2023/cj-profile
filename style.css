@@ -45,6 +45,15 @@ main {
 
 }
 
+.section-title {
+    font-size: 32px;
+    font-family: Meiryo;
+    width: 92px;
+    height: 32px;
+    text-align: center;
+    
+}
+
 .mainvisual img {
     width: 1280px;
     height: 600px;
